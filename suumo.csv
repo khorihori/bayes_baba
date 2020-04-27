@@ -1,4 +1,4 @@
-Prefecture,RoomLayout,Station,Area,Time,Age,Height,Floor,Shikikin,Reikin,Value,CntlValue,SumValue
+Prefecture,RoomLayout,NearStation,Area,Time,Age,Height,Floor,Shikikin,Reikin,Value,CntlValue,SumValue
 kobe,1LDK,阪急神戸線/王子公園駅,45.73,13,16,3,1,9,18,9,0,9
 kobe,4LDK,神戸電鉄有馬線/唐櫃台駅,89,8,27,3,1,6.9,13.8,6.9,0.4,7.3
 kobe,2LDK,地下鉄西神・山手線/湊川公園駅,56,23,2,7,1,0,12.5,6.25,0.7,6.95
